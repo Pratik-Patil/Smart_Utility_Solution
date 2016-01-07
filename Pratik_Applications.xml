@@ -1,0 +1,34 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\z\Pratik_Softwares.jar</jar>
+  <outfile>d:\z\Pratik_Softwares.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>high</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>D:\ICO\Cute\White Persian.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.1.1.1</fileVersion>
+    <txtFileVersion>1.1.1.1</txtFileVersion>
+    <fileDescription>Multi-Purpose Utility Software in Java Using Swing</fileDescription>
+    <copyright>Protected</copyright>
+    <productVersion>1.1.1.1</productVersion>
+    <txtProductVersion>1.1.1.1</txtProductVersion>
+    <productName>Pratik_Softwares</productName>
+    <companyName>Pratik_Softwares</companyName>
+    <internalName>Pratik_Softwares</internalName>
+    <originalFilename>Pratik_Softwares.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>

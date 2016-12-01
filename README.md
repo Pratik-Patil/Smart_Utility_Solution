@@ -1,5 +1,5 @@
-# MultiPurpose_Utility_Software_In_Java_Using_Swing
+# Smart Utility Solution
 
-Multi-Purpose Utility Software is a stand-alone software suite consists of different system utilities at one place with a platform independence of Java.
+Smart Utility Solution is a stand-alone software suite consists of Platform-Independent core system utilities.
 
 Technologies Used: Core Java, Swing
